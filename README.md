@@ -1,7 +1,7 @@
-# 毛毛虫_Wendy
+# 流云_cloudliuzju
 
-我的个人博客：<http://mmcwendy.info>，欢迎 Star 和 Fork。
-
+我的个人博客：<http://cloudliuzju.info>，欢迎 Star 和 Fork。
+模板fork自：<https://github.com/DWJWendy/DWJWendy.github.io>。
 ## 概览
 
 <!-- vim-markdown-toc GFM -->
